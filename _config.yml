@@ -43,9 +43,7 @@ author:
   scopus           : # URL
 
   #University 
-  university:
-  label: "UTA"
-  url: "https://www.uta.edu"
+  university: "UTA"
   
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
