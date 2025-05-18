@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently finishing up my bachelor's from [the University of Texas at Arlington](https://www.uta.edu) in Computer Engineering!
+Currently finishing up my bachelor's from [the University of Texas at Arlington](https://www.uta.edu) in<br>Computer Engineering!
 
 
 ## Research
