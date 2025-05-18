@@ -27,8 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Computer Engineering Undergraduate"
   location         : "TX, USA"
-  employer         : "<a href='https://www.uta.edu' target='_blank'>The University of Texas<br>&nbsp;&nbsp;&nbsp;
-                      &nbsp;&nbsp;&nbsp;&nbsp;at Arlington"
+  #employer         : "The University of Texas<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;at Arlington"
   uri              : # URL
   email            : "abulibdeh43@gmail.com" 
 
@@ -43,6 +42,11 @@ author:
   researchgate     : # URL
   scopus           : # URL
 
+  #University 
+  university:
+  label: "UTA"
+  url: "https://www.uta.edu"
+  
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
