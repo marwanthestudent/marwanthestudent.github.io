@@ -19,10 +19,10 @@ I focus on designing responsive hardware prototypes, developing signal-based int
 
 I’ve served as a GTA and mentor for the following classes:
 
-[**Electronics CSE 3323**](https://catalog.uta.edu/search/?P=CSE%203323) — UTA, Spring 2025<br>
-[**Intermediate Programming CSE 1320**](https://catalog.uta.edu/search/?P=CSE%201320) — UTA, Spring 2024<br>
-[**Intermediate Programming CSE 1320**](https://catalog.uta.edu/search/?P=CSE%201320) — UTA, Fall 2023<br>
-[**Introduction to Programming CSE 1320**](https://catalog.uta.edu/search/?P=CSE%201310) — UTA, Spring 2023<br>
+[Electronics CSE 3323](https://catalog.uta.edu/search/?P=CSE%203323) — UTA, Spring 2025<br>
+[Intermediate Programming CSE 1320](https://catalog.uta.edu/search/?P=CSE%201320) — UTA, Spring 2024<br>
+[Intermediate Programming CSE 1320](https://catalog.uta.edu/search/?P=CSE%201320) — UTA, Fall 2023<br>
+[Introduction to Programming CSE 1320](https://catalog.uta.edu/search/?P=CSE%201310) — UTA, Spring 2023<br>
 
 ## Publications
 
@@ -32,13 +32,13 @@ Coming Soon!
 
 Here are a few technical and personal projects I’ve worked on:
 
-[**DigitalRF_station**](https://github.com/marwanthestudent/DigitalRF_Station)<br>
+[DigitalRF_station](https://github.com/marwanthestudent/DigitalRF_Station)<br>
   A massive wireless communications project that involved building circuits, embedded programming, designing and printing antennae, Signal processing and much more.<br>
-[**Image_Processing_Tool**](https://github.com/marwanthestudent/Image_processing_tool)<br>
+[Image_Processing_Tool](https://github.com/marwanthestudent/Image_processing_tool)<br>
   An image processing application that does, gaussian blur, sharpening, unsharpening and edge detection on an image.<br>
-[**CustomAlloc**](https://github.com/marwanthestudent/CustomAlloc)<br>
+[CustomAlloc](https://github.com/marwanthestudent/CustomAlloc)<br>
   An implementation of malloc, calloc, realloc and free in C.<br>
-[**Handpose_Estimation**](https://github.com/marwanthestudent/Handpose_Estimation)<br>
+[Handpose_Estimation](https://github.com/marwanthestudent/Handpose_Estimation)<br>
   A 3D hand pose recognition system using a dataset of hand joint coordinates.<br>
 
 For more projects checkout my github on the left column!!
