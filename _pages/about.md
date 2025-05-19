@@ -32,11 +32,13 @@ Coming Soon!
 
 Here are a few technical and personal projects I’ve worked on:
 
-[**DigitalRF_station**](https://github.com/marwanthestudent/DigitalRF_Station)
-  A massive wireless communications project that involved building circuits, embedded programming, designing and printing antennae, Signal processing and much more.
-[**Image_Processing_Tool**](https://github.com/marwanthestudent/Image_processing_tool)
-  An image processing application that does, gaussian blur, sharpening, unsharpening and edge detection on an image.
-[**CustomAlloc**](https://github.com/marwanthestudent/CustomAlloc)
-  An implementation of malloc, calloc, realloc and free in C.
-[**Handpose_Estimation**](https://github.com/marwanthestudent/Handpose_Estimation)
-  A 3D hand pose recognition system using a dataset of hand joint coordinates.
+[**DigitalRF_station**](https://github.com/marwanthestudent/DigitalRF_Station)<br>
+  A massive wireless communications project that involved building circuits, embedded programming, designing and printing antennae, Signal processing and much more.<br>
+[**Image_Processing_Tool**](https://github.com/marwanthestudent/Image_processing_tool)<br>
+  An image processing application that does, gaussian blur, sharpening, unsharpening and edge detection on an image.<br>
+[**CustomAlloc**](https://github.com/marwanthestudent/CustomAlloc)<br>
+  An implementation of malloc, calloc, realloc and free in C.<br>
+[**Handpose_Estimation**](https://github.com/marwanthestudent/Handpose_Estimation)<br>
+  A 3D hand pose recognition system using a dataset of hand joint coordinates.<br>
+
+For more projects checkout my github on the left column!!
