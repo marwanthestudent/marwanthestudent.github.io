@@ -78,6 +78,8 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+  tau_beta_pi: "https://www.tbp.org"
+  sase: "https://saseconnect.org"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
