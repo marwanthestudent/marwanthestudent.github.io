@@ -41,4 +41,4 @@ Here are a few technical and personal projects I’ve worked on:
 [Handpose_Estimation](https://github.com/marwanthestudent/Handpose_Estimation)<br>
   A 3D hand pose recognition system using a dataset of hand joint coordinates.<br>
 
-For more projects checkout my github on the left column!!
+For more projects checkout my github !!
