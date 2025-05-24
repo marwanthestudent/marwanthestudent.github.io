@@ -31,12 +31,12 @@ Coming Soon!
 ## Honor's & Involvement
 CRA's UR2PhD Reasearch Program - Summer 2025<br>
 Tau Beta PI inudcted member - Spring 2025<br>
-Dean's list - UTA Spring 2025<br>
-Dean's list - UTA Fall 2024<br>
-SASE inudcted member - Fall 2024
-Dean's list - UTA Spring 2024<br>
-Honor's College inducted member - UTA Spring 2024<br>
-Dean's list - UTA Fall 2023<br>
+Dean's list - UTA, Spring 2025<br>
+Dean's list - UTA, Fall 2024<br>
+SASE inudcted member - Fall 2024<br>
+Dean's list - UTA, Spring 2024<br>
+Honor's College inducted member - UTA, Spring 2024<br>
+Dean's list - UTA, Fall 2023<br>
 
 ## Projects
 
