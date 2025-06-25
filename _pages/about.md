@@ -98,9 +98,6 @@ Here are a few technical and personal projects I’ve worked on:
 
 For more projects checkout my github !
 
-<!--</div>-->
-<!-- END Projects section -->
-
 ## Honor's & Involvement
 CRA's UR2PhD Reasearch Program - Summer 2025<br>
 Tau Beta PI inudcted member - Spring 2025<br>
