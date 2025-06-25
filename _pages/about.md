@@ -44,7 +44,7 @@ Here are a few technical and personal projects I’ve worked on:
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 2em;">
   <a href="https://github.com/marwanthestudent/DigitalRF_Station">
-    <img src="../images/antenna.png" alt="antenna" style="max-width: 200px; max-height: 150px; border-radius: 10px; object-fit: cover;">
+    <img src="../images/antenna.png" alt="antenna" style="max-width: 150px; max-height: 150px; border-radius: 10px; object-fit: cover;">
   </a>
   <div>
     <h3 style="margin: 0;">
@@ -60,7 +60,7 @@ Here are a few technical and personal projects I’ve worked on:
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 2em;">
   <a href="https://github.com/marwanthestudent/Image_processing_tool">
-    <img src="../images/computergraph.png" alt="detection" style="max-width: 200px; max-height: 150px; border-radius: 10px; object-fit: cover;">
+    <img src="../images/computergraph.png" alt="detection" style="max-width: 150px; max-height: 150px; border-radius: 10px; object-fit: cover;">
   </a>
   <div>
     <h3 style="margin: 0;">
@@ -76,7 +76,7 @@ Here are a few technical and personal projects I’ve worked on:
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 2em;">
   <a href="https://github.com/marwanthestudent/CustomAlloc">
-    <img src="../images/fragment.png" alt="fragmentation" style="max-width: 200px; max-height: 150px; border-radius: 10px; object-fit: cover;">
+    <img src="../images/fragment.png" alt="fragmentation" style="max-width: 150px; max-height: 150px; border-radius: 10px; object-fit: cover;">
   </a>
   <div>
     <h3 style="margin: 0;">
@@ -92,7 +92,7 @@ Here are a few technical and personal projects I’ve worked on:
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 2em;">
   <a href="https://github.com/marwanthestudent/Handpose_Estimation">
-    <img src="../images/est.png" alt="est" style="max-width: 200px; max-height: 150px; border-radius: 10px; object-fit: cover;">
+    <img src="../images/est.png" alt="est" style="max-width: 150px; max-height: 150px; border-radius: 10px; object-fit: cover;">
   </a>
   <div>
     <h3 style="margin: 0;">
