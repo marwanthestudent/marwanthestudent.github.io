@@ -42,8 +42,20 @@ Dean's list - UTA, Fall 2023<br>
 
 Here are a few technical and personal projects I’ve worked on:
 
-[DigitalRF_station](https://github.com/marwanthestudent/DigitalRF_Station)<br>
-  A massive wireless communications project that involved building circuits, embedded programming, designing and printing antennae, Signal processing and much more.<br>
+<table>
+  <tr>
+    <td style="width: 150px;">
+      <img src="image-1.png" alt="antenna" width="140">
+    </td>
+    <td>
+      <a href="https://github.com/marwanthestudent/DigitalRF_Station">
+        <strong>DigitalRF_Station</strong>
+      </a><br>
+      A massive wireless communications project that involved building circuits, embedded programming, designing and printing antennae, signal processing, and much more.
+    </td>
+  </tr>
+</table>
+
 [Image_Processing_Tool](https://github.com/marwanthestudent/Image_processing_tool)<br>
   An image processing application that does, gaussian blur, sharpening, unsharpening and edge detection on an image.<br>
 [CustomAlloc](https://github.com/marwanthestudent/CustomAlloc)<br>
