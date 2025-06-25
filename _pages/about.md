@@ -96,7 +96,10 @@ Here are a few technical and personal projects I’ve worked on:
   </div>
 </div>
 
-For more projects checkout my github !!
+For more projects checkout my github !
+
+</div>
+<!-- END Projects section -->
 
 ## Honor's & Involvement
 CRA's UR2PhD Reasearch Program - Summer 2025<br>
