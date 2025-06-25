@@ -43,14 +43,19 @@ Dean's list - UTA, Fall 2023<br>
 Here are a few technical and personal projects I’ve worked on:
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 2em;">
-  <a href = "https://github.com/marwanthestudent/DigitalRF_Station">
-  <img src="../images/antenna.png" alt="antenna" style="width: 200px; border-radius: 10px;">
+  <a href="https://github.com/marwanthestudent/DigitalRF_Station">
+    <img src="../images/antenna.png" alt="antenna"
+         style="width: 200px; height: 200px; object-fit: cover; border-radius: 10px;">
   </a>
   <div>
-    <a href = "https://github.com/marwanthestudent/DigitalRF_Station">
-    <h3>DigitalRF_Station</h3>
-    </a>
-    <p>A massive wireless communications project that involved building circuits, embedded programming, designing and printing antennae, signal processing, and much more.</p>
+    <h3 style="margin: 0;">
+      <a href="https://github.com/marwanthestudent/DigitalRF_Station" style="text-decoration: none; color: inherit;">
+        DigitalRF_Station
+      </a>
+    </h3>
+    <p>
+      A massive wireless communications project that involved building circuits, embedded programming, designing and printing antennae, signal processing, and much more.
+    </p>
   </div>
 </div>
 
