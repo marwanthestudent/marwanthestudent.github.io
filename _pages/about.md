@@ -44,8 +44,7 @@ Here are a few technical and personal projects I’ve worked on:
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 2em;">
   <a href="https://github.com/marwanthestudent/DigitalRF_Station">
-    <img src="../images/antenna.png" alt="antenna"
-         style="width: 200px; height: 200px; object-fit: cover; border-radius: 10px;">
+    <img src="../images/antenna.png" alt="antenna" style="max-width: 200px; max-height: 150px; border-radius: 10px; object-fit: cover;">
   </a>
   <div>
     <h3 style="margin: 0;">
