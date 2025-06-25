@@ -98,7 +98,7 @@ Here are a few technical and personal projects I’ve worked on:
 
 For more projects checkout my github !
 
-</div>
+<!--</div>-->
 <!-- END Projects section -->
 
 ## Honor's & Involvement
