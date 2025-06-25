@@ -43,7 +43,7 @@ Dean's list - UTA, Fall 2023<br>
 Here are a few technical and personal projects I’ve worked on:
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 2em;">
-  <img src="./image-1.png" alt="antenna" style="width: 200px; border-radius: 10px;">
+  <img src="../images/antenna.png" alt="antennaE" style="width: 200px; border-radius: 10px;">
   <div>
     <h3>DigitalRF_Station</h3>
     <p>A massive wireless communications project that involved building circuits, embedded programming, designing and printing antennae, signal processing, and much more.</p>
