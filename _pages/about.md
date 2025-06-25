@@ -28,16 +28,6 @@ I’ve served as a GTA and mentor for the following classes:
 
 Coming Soon!
 
-## Honor's & Involvement
-CRA's UR2PhD Reasearch Program - Summer 2025<br>
-Tau Beta PI inudcted member - Spring 2025<br>
-Dean's list - UTA, Spring 2025<br>
-Dean's list - UTA, Fall 2024<br>
-SASE inudcted member - Fall 2024<br>
-Dean's list - UTA, Spring 2024<br>
-Honor's College inducted member - UTA, Spring 2024<br>
-Dean's list - UTA, Fall 2023<br>
-
 ## Projects
 
 Here are a few technical and personal projects I’ve worked on:
@@ -107,3 +97,13 @@ Here are a few technical and personal projects I’ve worked on:
 </div>
 
 For more projects checkout my github !!
+
+## Honor's & Involvement
+CRA's UR2PhD Reasearch Program - Summer 2025<br>
+Tau Beta PI inudcted member - Spring 2025<br>
+Dean's list - UTA, Spring 2025<br>
+Dean's list - UTA, Fall 2024<br>
+SASE inudcted member - Fall 2024<br>
+Dean's list - UTA, Spring 2024<br>
+Honor's College inducted member - UTA, Spring 2024<br>
+Dean's list - UTA, Fall 2023<br>
