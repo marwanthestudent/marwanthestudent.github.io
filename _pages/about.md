@@ -58,11 +58,52 @@ Here are a few technical and personal projects I’ve worked on:
   </div>
 </div>
 
-[Image_Processing_Tool](https://github.com/marwanthestudent/Image_processing_tool)<br>
-  An image processing application that does, gaussian blur, sharpening, unsharpening and edge detection on an image.<br>
-[CustomAlloc](https://github.com/marwanthestudent/CustomAlloc)<br>
-  An implementation of malloc, calloc, realloc and free in C.<br>
-[Handpose_Estimation](https://github.com/marwanthestudent/Handpose_Estimation)<br>
-  A 3D hand pose recognition system using a dataset of hand joint coordinates.<br>
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 2em;">
+  <a href="https://github.com/marwanthestudent/Image_processing_tool">
+    <img src="../images/computergraph.png" alt="detection" style="max-width: 200px; max-height: 150px; border-radius: 10px; object-fit: cover;">
+  </a>
+  <div>
+    <h3 style="margin: 0;">
+      <a href="https://github.com/marwanthestudent/Image_processing_tool" style="text-decoration: none; color: inherit;">
+        Image_Processing_Tool
+      </a>
+    </h3>
+    <p>
+      An image processing application that does, gaussian blur, sharpening, unsharpening and edge detection on an image.
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 2em;">
+  <a href="https://github.com/marwanthestudent/CustomAlloc">
+    <img src="../images/fragment.png" alt="fragmentation" style="max-width: 200px; max-height: 150px; border-radius: 10px; object-fit: cover;">
+  </a>
+  <div>
+    <h3 style="margin: 0;">
+      <a href="https://github.com/marwanthestudent/CustomAlloc" style="text-decoration: none; color: inherit;">
+        CustomAlloc
+      </a>
+    </h3>
+    <p>
+      An implementation of malloc, calloc, realloc and free in C.
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 2em;">
+  <a href="https://github.com/marwanthestudent/Handpose_Estimation">
+    <img src="../images/est.png" alt="est" style="max-width: 200px; max-height: 150px; border-radius: 10px; object-fit: cover;">
+  </a>
+  <div>
+    <h3 style="margin: 0;">
+      <a href="https://github.com/marwanthestudent/Handpose_Estimation" style="text-decoration: none; color: inherit;">
+        Handpose_Estimation
+      </a>
+    </h3>
+    <p>
+      A 3D hand pose recognition system using a dataset of hand joint coordinates.
+    </p>
+  </div>
+</div>
 
 For more projects checkout my github !!
