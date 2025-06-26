@@ -23,9 +23,7 @@ I’ve served as a GTA and mentor for the following classes:
 [Intermediate Programming CSE 1320](https://catalog.uta.edu/search/?P=CSE%201320) — UTA, Spring 2024<br>
 [Intermediate Programming CSE 1320](https://catalog.uta.edu/search/?P=CSE%201320) — UTA, Fall 2023<br>
 [Introduction to Programming CSE 1310](https://catalog.uta.edu/search/?P=CSE%201310) — UTA, Spring 2023<br>
-<!-- 
-## Publications
-Coming Soon! -->
+
 ## Projects
 
 Here are a few technical and personal projects I’ve worked on:
