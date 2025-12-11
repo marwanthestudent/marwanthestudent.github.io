@@ -11,7 +11,7 @@ Currently finishing up my bachelor's from [The University of Texas at Arlington]
 
 ## Research
 
-I'm involved in projects that focuses on sensing and modeling heterogeneous fluid systems to estimate properties like slurry thickness and dryness in real time. My work combines custom sensing pipelines, statistical modeling, and embedded systems at the [Hybrid Atelier](https://hybridatelier.uta.edu).
+I'm involved in projects that focus on sensing and modeling heterogeneous fluid systems to estimate properties like slurry thickness or dryness in real time. My work combines custom sensing pipelines, statistical modeling, and embedded systems at the [Hybrid Atelier](https://hybridatelier.uta.edu).
 
 ## Teaching
 
@@ -37,7 +37,7 @@ Here are a few technical and personal projects I’ve worked on:
       </a>
     </h3>
     <p>
-      A custom I2C communication protocol built and tested on AMD Zynq XC7007S with a kernel driver running for Linux.
+      A custom I2C communication protocol built and tested on AMD Zynq XC7007S with a kernel driver for Linux.
     </p>
   </div>
 </div>
