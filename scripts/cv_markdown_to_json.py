@@ -54,12 +54,16 @@ def parse_markdown_cv(md_file):
 
 def parse_config(config_file):
     """Parse the Jekyll _config.yml file for additional information."""
+    # If no config file was provided or the path doesn't exist, return empty config
+    if not config_file:
+        return {}
+
     if not os.path.exists(config_file):
         return {}
-    
+
     with open(config_file, 'r', encoding='utf-8') as file:
-        config = yaml.safe_load(file)
-    
+        config = yaml.safe_load(file) or {}
+
     return config
 
 def extract_author_info(config):
