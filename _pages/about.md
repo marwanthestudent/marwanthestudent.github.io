@@ -11,9 +11,7 @@ Currently finishing up my bachelor's from [The University of Texas at Arlington]
 
 ## Research
 
-I'm currently involved in projects at the intersection of **signal processing**, **embedded systems**, and **HCI** at the [Hybrid Atelier](https://hybridatelier.uta.edu).
-
-I focus on designing responsive hardware prototypes, developing signal-based interaction systems and user-centered embedded solutions.
+I'm involved in projects that focuses on sensing and modeling heterogeneous fluid systems to estimate properties like slurry thickness and dryness in real time. My work combines custom sensing pipelines, statistical modeling, and embedded systems at the [Hybrid Atelier](https://hybridatelier.uta.edu).
 
 ## Teaching
 
@@ -27,6 +25,22 @@ I’ve served as a GTA and mentor for the following classes:
 ## Projects
 
 Here are a few technical and personal projects I’ve worked on:
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 2em;">
+  <a href="https://github.com/marwanthestudent/I2C_Communication_ZynqSoC">
+    <img src="../images/ila.png" alt="ila" style="max-width: 150px; max-height: 150px; border-radius: 10px; object-fit: cover;">
+  </a>
+  <div>
+    <h3 style="margin: 0;">
+      <a href="https://github.com/marwanthestudent/I2C_Communication_ZynqSoC" style="text-decoration: none; color: inherit;">
+        I2C_Communication_ZynqSoC
+      </a>
+    </h3>
+    <p>
+      A custom I2C communication protocol built and tested on AMD Zynq XC7007S with a kernel driver running for Linux.
+    </p>
+  </div>
+</div>
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 2em;">
   <a href="https://github.com/marwanthestudent/DigitalRF_Station">
