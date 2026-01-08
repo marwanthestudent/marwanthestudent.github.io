@@ -109,6 +109,7 @@ Here are a few technical and personal projects I’ve worked on:
 For more projects checkout my github !
 
 ## Honor's & Involvement
+Dean's list - UTA, Fall 2025<br>
 CRA's UR2PhD Research Program - Summer 2025<br>
 Tau Beta PI inducted member - Spring 2025<br>
 Dean's list - UTA, Spring 2025<br>
